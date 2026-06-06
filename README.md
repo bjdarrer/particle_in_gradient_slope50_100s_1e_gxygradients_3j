@@ -29,6 +29,7 @@ Hence, after moving terms to the RHS:
              + s[(pX+X0)^3 - X0^3] - [(pX+X0)^2(pY+Y0)-X0^2Y0]
 
 The Mathematica notebook settings were:
+
     G gradient = -1/50
     X gradient = -1/50
     Y gradient = -1/50
