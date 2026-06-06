@@ -41,11 +41,13 @@ The Mathematica notebook settings were:
     periodic boundary condition p(-L/2,t)=p(L/2,t)
 
 Outputs:
+
     - PNG snapshots
     - optional MP4 animation if imageio is available
     - CSV diagnostics of centre-of-mass-like estimates
 
 Note for Brendan only:
+
     python3 -m venv tf-env
     source tf-env/bin/activate
     
